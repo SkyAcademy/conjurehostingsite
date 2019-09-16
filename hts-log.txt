@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Sep 2019 17:30:47 at https://demos.wolfthemes.com/milu/main-home/agency/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demos.wolfthemes.com/milu/main-home/agency/ -O1 "D:\downloaded websites\milu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/cropped-favicon-32x32.jpg (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/cropped-favicon-192x192.jpg (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/cropped-favicon-180x180.jpg (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/iPhone-X-Mockup-new.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Warning: 	Retry after error -4 (No data (connection closed)) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/04/luke-chesser-rCOWMC8qf8A-unsplash-2000x1333.jpg (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/themes/milu/assets/img/blank.gif (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/05/623607440_640.jpg (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/c_d_07.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/c_d_08.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/c_d_01.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/c_d_02.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/c_d_03.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/c_d_04.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/c_d_05.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/c_d_06.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/googleplay_button-1.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:21	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/07/appstore_button-2.png (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:26	Error: 	"Not Found" (404) at link https://demos.wolfthemes.com/milu/wp-content/plugins/wolf-gram/assets/img/loader.gif (from https://demos.wolfthemes.com/milu/wp-content/cache/autoptimize/28/css/autoptimize_54e5622900fb5e565798cda9c97d6d51.css)
+17:31:26	Error: 	"Not Found" (404) at link https://demos.wolfthemes.com/milu/wp-content/themes/milu/assets/img/woocommerce/ajax-loader@2x.gif (from https://demos.wolfthemes.com/milu/wp-content/cache/autoptimize/28/css/autoptimize_54e5622900fb5e565798cda9c97d6d51.css)
+17:31:26	Error: 	"Not Found" (404) at link https://demos.wolfthemes.com/milu/main-home/agency/Trident/ (from https://demos.wolfthemes.com/milu/wp-content/plugins/wolf-visual-composer/assets/js/lib/jarallax/jarallax.min.js?ver=1568303297)
+17:31:26	Warning: 	Moved Permanently for https://demos.wolfthemes.com/milu/main-home/agency/Edge/
+17:31:26	Warning: 	File has moved from https://demos.wolfthemes.com/milu/main-home/agency/Edge/ to https://demos.wolfthemes.com/milu/work/edge-of-truth/
+17:31:26	Warning: 	Retry after error -4 (No data (connection closed)) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/04/luke-chesser-rCOWMC8qf8A-unsplash-2000x1333.jpg (from https://demos.wolfthemes.com/milu/main-home/agency/)
+17:31:26	Error: 	"Not Found" (404) at link https://demos.wolfthemes.com/milu/main-home/agency/Version/ (from https://demos.wolfthemes.com/milu/wp-content/cache/autoptimize/28/js/autoptimize_bb40ee877d70b79b0b07f969081a4a4e.js)
+17:31:26	Error: 	"Not Found" (404) at link https://demos.wolfthemes.com/milu/main-home/agency/CustomEase.min.js (from https://demos.wolfthemes.com/milu/wp-content/cache/autoptimize/28/js/autoptimize_bb40ee877d70b79b0b07f969081a4a4e.js)
+17:31:26	Error: 	"Not Found" (404) at link https://demos.wolfthemes.com/milu/main-home/TweenLite.min.js (from https://demos.wolfthemes.com/milu/wp-content/cache/autoptimize/28/js/autoptimize_bb40ee877d70b79b0b07f969081a4a4e.js)
+17:31:26	Warning: 	Moved Permanently for https://demos.wolfthemes.com/milu/main-home/agency/origin=https://
+17:31:26	Warning: 	Redirected link is identical because of 'URL Hack' option: https://demos.wolfthemes.com/milu/main-home/agency/origin=https:// and https://demos.wolfthemes.com/milu/main-home/agency/origin=https:/
+17:31:26	Warning: 	File has moved from https://demos.wolfthemes.com/milu/main-home/agency/origin=https:// to https://demos.wolfthemes.com/milu/main-home/agency/origin=https:/
+17:31:26	Error: 	"Not Found" (404) at link https://demos.wolfthemes.com/milu/main-home/agency/GET (from https://demos.wolfthemes.com/milu/wp-content/cache/autoptimize/28/js/autoptimize_bb40ee877d70b79b0b07f969081a4a4e.js)
+17:31:26	Error: 	"Not Found" (404) at link https://demos.wolfthemes.com/milu/main-home/agency/img.svg (from https://demos.wolfthemes.com/milu/wp-content/cache/autoptimize/28/js/autoptimize_bb40ee877d70b79b0b07f969081a4a4e.js)
+17:31:26	Error: 	"Not Found" (404) at link https://demos.wolfthemes.com/milu/main-home/agency/dist/ (from https://demos.wolfthemes.com/milu/wp-content/cache/autoptimize/28/js/autoptimize_bb40ee877d70b79b0b07f969081a4a4e.js)
+17:31:26	Error: 	"Forbidden" (403) at link 2b2e9c99bcafd8a1a4ed0fc1-rrav5y0aqj.netdna-ssl.com/wp-content/uploads/sites/28/2019/04/luke-chesser-rCOWMC8qf8A-unsplash-2000x1333.jpg (from https://demos.wolfthemes.com/milu/main-home/agency/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 72 links scanned, 41 files written (9776231 bytes overall) [7131671 bytes received at 182863 bytes/sec], 4093480 bytes transferred using HTTP compression in 38 files, ratio 18%, 3.7 requests per connection
+(26 errors, 7 warnings, 0 messages)
